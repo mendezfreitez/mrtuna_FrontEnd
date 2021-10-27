@@ -1,0 +1,80 @@
+aside.q-drawer--left{
+    border-right: 0px!important;
+}
+
+input{
+    font-size: 14px;
+}
+
+.q-table th{
+  padding: 0px 10px!important;
+}
+.q-td{
+  padding: 0px 5px!important;
+} 
+.q-table thead tr, .q-table tbody td {
+  height: 35px;
+}
+
+div.q-markup-table::-webkit-scrollbar, body::-webkit-scrollbar, div.q-position-engine::-webkit-scrollbar, div.q-table__middle::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  background-color:  #263238 !important;
+}
+div.q-markup-table::-webkit-scrollbar-track, body::-webkit-scrollbar-track, div.q-position-engine::-webkit-scrollbar-track, div.q-table__middle::-webkit-scrollbar-track {
+  box-shadow:  rgb(255, 255, 255);
+}
+div.q-markup-table::-webkit-scrollbar-thumb, body::-webkit-scrollbar-thumb, div.q-position-engine::-webkit-scrollbar-thumb, div.q-table__middle::-webkit-scrollbar-thumb {
+  background-color: rgb(182, 182, 182);
+  outline: 0px;
+}
+
+#ddMesGrafico > span.q-btn__wrapper, #ddMesGrafico_ > span.q-btn__wrapper{
+  padding-top: 0px!important;
+  padding-left: 10px!important;
+  padding-right: 3px!important;
+  height:10px!important;
+}
+#ddMesGrafico > span.q-btn__wrapper > span.q-btn__content, #ddMesGrafico_ > span.q-btn__wrapper > span.q-btn__content{
+  padding-top: 12px!important;
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+  height:10px!important;
+}
+body{
+  overflow-y:hidden;
+}
+
+div.q-table__bottom{
+  color: #FFF!important;
+  font-size: 15px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+}
+
+.txtFiltrar > div.q-field__inner, .txtFiltrar > div.q-field__inner > div {
+  height:30px!important;
+}
+.txtFiltrar > div.q-field__inner > div > div > input {
+  padding-top: 2px!important;
+}
+.txtFiltrar > div.q-field__inner > div > div.q-field__append {
+  padding-top: 3px!important;
+  height:28px!important;
+}
+.txtFiltrar > div.q-field__inner > div.q-field__control {
+  padding-left: 5px!important;
+  padding-right: 5px!important;
+}
+
+.verde_WhatsApp{
+  background-color: #45ec8b!important;
+}
+
+.amarillo_SnapChat{
+  background-color: #f0ec06!important;
+}
+
+.rojo_YouTube{
+  background-color: #d18765!important;
+}
