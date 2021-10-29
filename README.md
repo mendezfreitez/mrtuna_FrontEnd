@@ -1,22 +1,23 @@
-# trades-app (trades-app)
+# Mr Tuna
+Sistema de gestión de inventario y control de ventas de ventas de productos de mar (camarón, atún, langosta, entre otros). Este cuenta con apartado de ventas, productos, repartidores y clientes, se encuentra alojado en Firebase y fué desarrollado bajo VueJS y Quasar...
 
-A Quasar Framework app
-
-## Install the dependencies
+## Instalación de dependencias
 ```bash
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Inicializar en servidor local
 ```bash
 quasar dev
 ```
+El proyecto construido se encontrará dentro de una carpeta la cual a su vez se se ubicará en la carpeta "dist"...
+Elemplo "dist/spa"
 
 
-### Build the app for production
+### Construir la app
 ```bash
 quasar build
 ```
 
-### Customize the configuration
+### Customizar la configuración
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
